@@ -5,7 +5,6 @@ A crowdsource contract to fund in Crypto Currencies
 - Check Balance 
 - Do whatever as u like 
 
- ![Alt text](image.png)
 
 # Getting Started
 ## Requirements
