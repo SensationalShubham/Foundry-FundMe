@@ -13,6 +13,8 @@ docs/
 # Dotenv file
 .env
 
-.github/
+# Ignore the .github directory and its contents
+/.github/
 
-broadcast/
+# Ignore the broadcast directory and its contents
+/broadcast/
